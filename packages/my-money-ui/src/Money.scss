@@ -1,0 +1,17 @@
+.Money {
+  .balanceContainer {
+    display: flex;
+    justify-content: center;
+
+    .balance {
+      border: 1px solid red;
+      border-radius: 50%;
+      width: 10rem;
+      height: 10rem;
+      background: red;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+  }
+}
